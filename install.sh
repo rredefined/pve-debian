@@ -12,7 +12,7 @@ echo "=============================================="
 echo ""
 
 read -p "Please enter a valid key: " key
-if [ "$key" != "play.arixmc.fun" ]; then
+if [ "$key" != "eiro" ]; then
     echo "❌ Invalid key! Exiting..."
     exit 1
 fi
