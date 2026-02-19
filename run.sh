@@ -1,4 +1,4 @@
-#!/bin/bash
+# !/bin/bash
 
 # Clone the repository
 git clone https://github.com/rredefined/pve-debian.git
