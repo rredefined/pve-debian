@@ -1,4 +1,5 @@
 # !/bin/bash
+apt install git -y
 
 # Clone the repository
 git clone https://github.com/rredefined/pve-debian.git
