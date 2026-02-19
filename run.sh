@@ -7,7 +7,4 @@ git clone https://github.com/rredefined/pve-debian.git
 cd pve-debian || { echo "Failed to enter directory"; exit 1; }
 
 # Make install script executable
-chmod +x install.sh
-
-# Run the installer
-./install.sh
+bash install.sh
